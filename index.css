@@ -1,0 +1,113 @@
+.navi{
+    border: 2px solid green;
+    margin-bottom: 70px;
+    display: flex;
+    padding: 5px;
+    justify-content: space-between;
+       }
+
+nav .logo{
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    margin: 3px;
+    }
+
+nav ul{
+    flex: 1;
+    justify-content: space-between;
+    width: 60%;
+}
+
+nav ul li{
+    
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 10px;
+    }
+
+nav .logo img{width: 100%;}
+
+nav .button{
+    margin-top: 15px;
+    display: flex 1;
+}
+.button .log{
+    background-color: transparent;
+    border: none;
+    }
+.button .sign{
+    background-color: transparent;
+    border: none;
+    background-color: rgba(232, 114, 55, 0.889);
+    color: white;
+}
+
+.link{
+    justify-content: space-between;
+    display: flex;
+}
+
+section{
+    border: 3px solid green;
+    display: flex;
+    margin: 3px 3px; 
+    padding: 5px 5px;
+    justify-content: space-between;
+}
+
+section .b2{
+    border: 3px solid transparent;
+}
+
+.bodi{
+    flex 1;
+
+}
+
+.box1{
+    border: 3px solid purple;
+    padding: 5px;
+    flex: 1;
+    
+    
+}
+
+.box2{
+    padding: 10px;
+    border: 3px solid blue;
+    height: 400px;
+    width: 500px;
+    background-image: url(https://th.bing.com/th/id/OIP.-M_GY7Ris6IBZ7dDqjvAWQHaHa?w=148&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+
+.box2 button{
+    background-color: coral;
+    border: none;
+    height: 40px;
+    margin-top: 20px;
+    width: 500px;
+    color: white;
+}
+.box3{
+    margin: 5px;
+    padding: 5px;
+    border: 3px solid rgb(140, 0, 0);
+}
+
+.box4{
+    
+    margin: 5px;
+    padding: 5px;
+    border: 3px solid yellow;
+}
+
+style .stl{
+        background-image: url "https://th.bing.com/th/id/OIP.-M_GY7Ris6IBZ7dDqjvAWQHaHa?w=148&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7";
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+ }
